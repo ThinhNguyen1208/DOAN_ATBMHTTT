@@ -1,0 +1,148 @@
+C:\Users\phucj\Desktop\Nam 3\HK2\ATBM\Do An\Phan He 1\PhanHe1\DBMSSec-TH2018-23-PH1\PhanQuyen\PhanQuyen\bin\Debug\PhanQuyen.exe.config
+C:\Users\phucj\Desktop\Nam 3\HK2\ATBM\Do An\Phan He 1\PhanHe1\DBMSSec-TH2018-23-PH1\PhanQuyen\PhanQuyen\bin\Debug\PhanQuyen.exe
+C:\Users\phucj\Desktop\Nam 3\HK2\ATBM\Do An\Phan He 1\PhanHe1\DBMSSec-TH2018-23-PH1\PhanQuyen\PhanQuyen\bin\Debug\PhanQuyen.pdb
+C:\Users\phucj\Desktop\Nam 3\HK2\ATBM\Do An\Phan He 1\PhanHe1\DBMSSec-TH2018-23-PH1\PhanQuyen\PhanQuyen\obj\Debug\PhanQuyen.csproj.AssemblyReference.cache
+C:\Users\phucj\Desktop\Nam 3\HK2\ATBM\Do An\Phan He 1\PhanHe1\DBMSSec-TH2018-23-PH1\PhanQuyen\PhanQuyen\obj\Debug\PhanQuyen.Login.resources
+C:\Users\phucj\Desktop\Nam 3\HK2\ATBM\Do An\Phan He 1\PhanHe1\DBMSSec-TH2018-23-PH1\PhanQuyen\PhanQuyen\obj\Debug\PhanQuyen.Properties.Resources.resources
+C:\Users\phucj\Desktop\Nam 3\HK2\ATBM\Do An\Phan He 1\PhanHe1\DBMSSec-TH2018-23-PH1\PhanQuyen\PhanQuyen\obj\Debug\PhanQuyen.Role.resources
+C:\Users\phucj\Desktop\Nam 3\HK2\ATBM\Do An\Phan He 1\PhanHe1\DBMSSec-TH2018-23-PH1\PhanQuyen\PhanQuyen\obj\Debug\PhanQuyen.TrangChu.resources
+C:\Users\phucj\Desktop\Nam 3\HK2\ATBM\Do An\Phan He 1\PhanHe1\DBMSSec-TH2018-23-PH1\PhanQuyen\PhanQuyen\obj\Debug\PhanQuyen.User.resources
+C:\Users\phucj\Desktop\Nam 3\HK2\ATBM\Do An\Phan He 1\PhanHe1\DBMSSec-TH2018-23-PH1\PhanQuyen\PhanQuyen\obj\Debug\PhanQuyen.csproj.GenerateResource.cache
+C:\Users\phucj\Desktop\Nam 3\HK2\ATBM\Do An\Phan He 1\PhanHe1\DBMSSec-TH2018-23-PH1\PhanQuyen\PhanQuyen\obj\Debug\PhanQuyen.csproj.CoreCompileInputs.cache
+C:\Users\phucj\Desktop\Nam 3\HK2\ATBM\Do An\Phan He 1\PhanHe1\DBMSSec-TH2018-23-PH1\PhanQuyen\PhanQuyen\obj\Debug\PhanQuyen.exe
+C:\Users\phucj\Desktop\Nam 3\HK2\ATBM\Do An\Phan He 1\PhanHe1\DBMSSec-TH2018-23-PH1\PhanQuyen\PhanQuyen\obj\Debug\PhanQuyen.pdb
+D:\University\Year3_Semester2\an toàn và bảo mật dữ liệu\lí thuyết\Project\Reference\Phan He 1\PhanHe1\DBMSSec-TH2018-23-PH1\PhanQuyen\PhanQuyen\bin\Debug\PhanQuyen.exe.config
+D:\University\Year3_Semester2\an toàn và bảo mật dữ liệu\lí thuyết\Project\Reference\Phan He 1\PhanHe1\DBMSSec-TH2018-23-PH1\PhanQuyen\PhanQuyen\bin\Debug\PhanQuyen.exe
+D:\University\Year3_Semester2\an toàn và bảo mật dữ liệu\lí thuyết\Project\Reference\Phan He 1\PhanHe1\DBMSSec-TH2018-23-PH1\PhanQuyen\PhanQuyen\bin\Debug\PhanQuyen.pdb
+D:\University\Year3_Semester2\an toàn và bảo mật dữ liệu\lí thuyết\Project\Reference\Phan He 1\PhanHe1\DBMSSec-TH2018-23-PH1\PhanQuyen\PhanQuyen\bin\Debug\Oracle.DataAccess.dll
+D:\University\Year3_Semester2\an toàn và bảo mật dữ liệu\lí thuyết\Project\Reference\Phan He 1\PhanHe1\DBMSSec-TH2018-23-PH1\PhanQuyen\PhanQuyen\obj\Debug\PhanQuyen.Login.resources
+D:\University\Year3_Semester2\an toàn và bảo mật dữ liệu\lí thuyết\Project\Reference\Phan He 1\PhanHe1\DBMSSec-TH2018-23-PH1\PhanQuyen\PhanQuyen\obj\Debug\PhanQuyen.Properties.Resources.resources
+D:\University\Year3_Semester2\an toàn và bảo mật dữ liệu\lí thuyết\Project\Reference\Phan He 1\PhanHe1\DBMSSec-TH2018-23-PH1\PhanQuyen\PhanQuyen\obj\Debug\PhanQuyen.Role.resources
+D:\University\Year3_Semester2\an toàn và bảo mật dữ liệu\lí thuyết\Project\Reference\Phan He 1\PhanHe1\DBMSSec-TH2018-23-PH1\PhanQuyen\PhanQuyen\obj\Debug\PhanQuyen.TrangChu.resources
+D:\University\Year3_Semester2\an toàn và bảo mật dữ liệu\lí thuyết\Project\Reference\Phan He 1\PhanHe1\DBMSSec-TH2018-23-PH1\PhanQuyen\PhanQuyen\obj\Debug\PhanQuyen.User.resources
+D:\University\Year3_Semester2\an toàn và bảo mật dữ liệu\lí thuyết\Project\Reference\Phan He 1\PhanHe1\DBMSSec-TH2018-23-PH1\PhanQuyen\PhanQuyen\obj\Debug\PhanQuyen.csproj.GenerateResource.cache
+D:\University\Year3_Semester2\an toàn và bảo mật dữ liệu\lí thuyết\Project\Reference\Phan He 1\PhanHe1\DBMSSec-TH2018-23-PH1\PhanQuyen\PhanQuyen\obj\Debug\PhanQuyen.csproj.CoreCompileInputs.cache
+D:\University\Year3_Semester2\an toàn và bảo mật dữ liệu\lí thuyết\Project\Reference\Phan He 1\PhanHe1\DBMSSec-TH2018-23-PH1\PhanQuyen\PhanQuyen\obj\Debug\PhanQuyen.csproj.CopyComplete
+D:\University\Year3_Semester2\an toàn và bảo mật dữ liệu\lí thuyết\Project\Reference\Phan He 1\PhanHe1\DBMSSec-TH2018-23-PH1\PhanQuyen\PhanQuyen\obj\Debug\PhanQuyen.exe
+D:\University\Year3_Semester2\an toàn và bảo mật dữ liệu\lí thuyết\Project\Reference\Phan He 1\PhanHe1\DBMSSec-TH2018-23-PH1\PhanQuyen\PhanQuyen\obj\Debug\PhanQuyen.pdb
+D:\University\Year3_Semester2\security_of_information_system\theory\Project\mainProject\PhanQuyen\PhanQuyen\bin\Debug\PhanQuyen.exe.config
+D:\University\Year3_Semester2\security_of_information_system\theory\Project\mainProject\PhanQuyen\PhanQuyen\bin\Debug\PhanQuyen.exe
+D:\University\Year3_Semester2\security_of_information_system\theory\Project\mainProject\PhanQuyen\PhanQuyen\bin\Debug\PhanQuyen.pdb
+D:\University\Year3_Semester2\security_of_information_system\theory\Project\mainProject\PhanQuyen\PhanQuyen\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\University\Year3_Semester2\security_of_information_system\theory\Project\mainProject\PhanQuyen\PhanQuyen\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\University\Year3_Semester2\security_of_information_system\theory\Project\mainProject\PhanQuyen\PhanQuyen\bin\Debug\System.Buffers.dll
+D:\University\Year3_Semester2\security_of_information_system\theory\Project\mainProject\PhanQuyen\PhanQuyen\bin\Debug\System.Memory.dll
+D:\University\Year3_Semester2\security_of_information_system\theory\Project\mainProject\PhanQuyen\PhanQuyen\bin\Debug\System.Numerics.Vectors.dll
+D:\University\Year3_Semester2\security_of_information_system\theory\Project\mainProject\PhanQuyen\PhanQuyen\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\University\Year3_Semester2\security_of_information_system\theory\Project\mainProject\PhanQuyen\PhanQuyen\bin\Debug\System.Text.Encodings.Web.dll
+D:\University\Year3_Semester2\security_of_information_system\theory\Project\mainProject\PhanQuyen\PhanQuyen\bin\Debug\System.Text.Json.dll
+D:\University\Year3_Semester2\security_of_information_system\theory\Project\mainProject\PhanQuyen\PhanQuyen\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\University\Year3_Semester2\security_of_information_system\theory\Project\mainProject\PhanQuyen\PhanQuyen\bin\Debug\System.ValueTuple.dll
+D:\University\Year3_Semester2\security_of_information_system\theory\Project\mainProject\PhanQuyen\PhanQuyen\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\University\Year3_Semester2\security_of_information_system\theory\Project\mainProject\PhanQuyen\PhanQuyen\bin\Debug\System.Buffers.xml
+D:\University\Year3_Semester2\security_of_information_system\theory\Project\mainProject\PhanQuyen\PhanQuyen\bin\Debug\System.Memory.xml
+D:\University\Year3_Semester2\security_of_information_system\theory\Project\mainProject\PhanQuyen\PhanQuyen\bin\Debug\System.Numerics.Vectors.xml
+D:\University\Year3_Semester2\security_of_information_system\theory\Project\mainProject\PhanQuyen\PhanQuyen\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\University\Year3_Semester2\security_of_information_system\theory\Project\mainProject\PhanQuyen\PhanQuyen\bin\Debug\System.Text.Encodings.Web.xml
+D:\University\Year3_Semester2\security_of_information_system\theory\Project\mainProject\PhanQuyen\PhanQuyen\bin\Debug\System.Text.Json.xml
+D:\University\Year3_Semester2\security_of_information_system\theory\Project\mainProject\PhanQuyen\PhanQuyen\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\University\Year3_Semester2\security_of_information_system\theory\Project\mainProject\PhanQuyen\PhanQuyen\bin\Debug\System.ValueTuple.xml
+D:\University\Year3_Semester2\security_of_information_system\theory\Project\mainProject\PhanQuyen\PhanQuyen\obj\Debug\PhanQuyen.Login.resources
+D:\University\Year3_Semester2\security_of_information_system\theory\Project\mainProject\PhanQuyen\PhanQuyen\obj\Debug\PhanQuyen.Properties.Resources.resources
+D:\University\Year3_Semester2\security_of_information_system\theory\Project\mainProject\PhanQuyen\PhanQuyen\obj\Debug\PhanQuyen.Role.resources
+D:\University\Year3_Semester2\security_of_information_system\theory\Project\mainProject\PhanQuyen\PhanQuyen\obj\Debug\PhanQuyen.TrangChu.resources
+D:\University\Year3_Semester2\security_of_information_system\theory\Project\mainProject\PhanQuyen\PhanQuyen\obj\Debug\PhanQuyen.User.resources
+D:\University\Year3_Semester2\security_of_information_system\theory\Project\mainProject\PhanQuyen\PhanQuyen\obj\Debug\PhanQuyen.csproj.GenerateResource.cache
+D:\University\Year3_Semester2\security_of_information_system\theory\Project\mainProject\PhanQuyen\PhanQuyen\obj\Debug\PhanQuyen.csproj.CoreCompileInputs.cache
+D:\University\Year3_Semester2\security_of_information_system\theory\Project\mainProject\PhanQuyen\PhanQuyen\obj\Debug\PhanQuyen.csproj.CopyComplete
+D:\University\Year3_Semester2\security_of_information_system\theory\Project\mainProject\PhanQuyen\PhanQuyen\obj\Debug\PhanQuyen.exe
+D:\University\Year3_Semester2\security_of_information_system\theory\Project\mainProject\PhanQuyen\PhanQuyen\obj\Debug\PhanQuyen.pdb
+D:\University\Year3_Semester2\security_of_information_system\theory\Project\mainProject\PhanQuyen\PhanQuyen\obj\Debug\PhanQuyen.csproj.AssemblyReference.cache
+D:\University\Year3_Semester2\security_of_information_system\theory\Project\mainProject\PhanQuyen\PhanQuyen\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\University\Year3_Semester2\security_of_information_system\theory\Project\mainProject\PhanQuyen\PhanQuyen\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\University\Year3_Semester2\security_of_information_system\theory\Project\mainProject\PhanQuyen\PhanQuyen\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\University\Year3_Semester2\security_of_information_system\theory\Project\mainProject\PhanQuyen\PhanQuyen\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\University\Year3_Semester2\security_of_information_system\theory\Project\mainProject\PhanQuyen\PhanQuyen\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\University\Year3_Semester2\security_of_information_system\theory\Project\mainProject\PhanQuyen\PhanQuyen\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\Năm 3\Học kì 2\An toàn và bảo mật dữ liệu\Thực hành\Đồ án lý thuyết\PhanQuyen\PhanQuyen\bin\Debug\PhanQuyen.exe.config
+D:\Năm 3\Học kì 2\An toàn và bảo mật dữ liệu\Thực hành\Đồ án lý thuyết\PhanQuyen\PhanQuyen\bin\Debug\PhanQuyen.exe
+D:\Năm 3\Học kì 2\An toàn và bảo mật dữ liệu\Thực hành\Đồ án lý thuyết\PhanQuyen\PhanQuyen\bin\Debug\PhanQuyen.pdb
+D:\Năm 3\Học kì 2\An toàn và bảo mật dữ liệu\Thực hành\Đồ án lý thuyết\PhanQuyen\PhanQuyen\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Năm 3\Học kì 2\An toàn và bảo mật dữ liệu\Thực hành\Đồ án lý thuyết\PhanQuyen\PhanQuyen\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Năm 3\Học kì 2\An toàn và bảo mật dữ liệu\Thực hành\Đồ án lý thuyết\PhanQuyen\PhanQuyen\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\Năm 3\Học kì 2\An toàn và bảo mật dữ liệu\Thực hành\Đồ án lý thuyết\PhanQuyen\PhanQuyen\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\Năm 3\Học kì 2\An toàn và bảo mật dữ liệu\Thực hành\Đồ án lý thuyết\PhanQuyen\PhanQuyen\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\Năm 3\Học kì 2\An toàn và bảo mật dữ liệu\Thực hành\Đồ án lý thuyết\PhanQuyen\PhanQuyen\bin\Debug\System.Buffers.dll
+D:\Năm 3\Học kì 2\An toàn và bảo mật dữ liệu\Thực hành\Đồ án lý thuyết\PhanQuyen\PhanQuyen\bin\Debug\System.Memory.dll
+D:\Năm 3\Học kì 2\An toàn và bảo mật dữ liệu\Thực hành\Đồ án lý thuyết\PhanQuyen\PhanQuyen\bin\Debug\System.Numerics.Vectors.dll
+D:\Năm 3\Học kì 2\An toàn và bảo mật dữ liệu\Thực hành\Đồ án lý thuyết\PhanQuyen\PhanQuyen\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Năm 3\Học kì 2\An toàn và bảo mật dữ liệu\Thực hành\Đồ án lý thuyết\PhanQuyen\PhanQuyen\bin\Debug\System.Text.Encodings.Web.dll
+D:\Năm 3\Học kì 2\An toàn và bảo mật dữ liệu\Thực hành\Đồ án lý thuyết\PhanQuyen\PhanQuyen\bin\Debug\System.Text.Json.dll
+D:\Năm 3\Học kì 2\An toàn và bảo mật dữ liệu\Thực hành\Đồ án lý thuyết\PhanQuyen\PhanQuyen\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Năm 3\Học kì 2\An toàn và bảo mật dữ liệu\Thực hành\Đồ án lý thuyết\PhanQuyen\PhanQuyen\bin\Debug\System.ValueTuple.dll
+D:\Năm 3\Học kì 2\An toàn và bảo mật dữ liệu\Thực hành\Đồ án lý thuyết\PhanQuyen\PhanQuyen\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Năm 3\Học kì 2\An toàn và bảo mật dữ liệu\Thực hành\Đồ án lý thuyết\PhanQuyen\PhanQuyen\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\Năm 3\Học kì 2\An toàn và bảo mật dữ liệu\Thực hành\Đồ án lý thuyết\PhanQuyen\PhanQuyen\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\Năm 3\Học kì 2\An toàn và bảo mật dữ liệu\Thực hành\Đồ án lý thuyết\PhanQuyen\PhanQuyen\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\Năm 3\Học kì 2\An toàn và bảo mật dữ liệu\Thực hành\Đồ án lý thuyết\PhanQuyen\PhanQuyen\bin\Debug\System.Buffers.xml
+D:\Năm 3\Học kì 2\An toàn và bảo mật dữ liệu\Thực hành\Đồ án lý thuyết\PhanQuyen\PhanQuyen\bin\Debug\System.Memory.xml
+D:\Năm 3\Học kì 2\An toàn và bảo mật dữ liệu\Thực hành\Đồ án lý thuyết\PhanQuyen\PhanQuyen\bin\Debug\System.Numerics.Vectors.xml
+D:\Năm 3\Học kì 2\An toàn và bảo mật dữ liệu\Thực hành\Đồ án lý thuyết\PhanQuyen\PhanQuyen\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Năm 3\Học kì 2\An toàn và bảo mật dữ liệu\Thực hành\Đồ án lý thuyết\PhanQuyen\PhanQuyen\bin\Debug\System.Text.Encodings.Web.xml
+D:\Năm 3\Học kì 2\An toàn và bảo mật dữ liệu\Thực hành\Đồ án lý thuyết\PhanQuyen\PhanQuyen\bin\Debug\System.Text.Json.xml
+D:\Năm 3\Học kì 2\An toàn và bảo mật dữ liệu\Thực hành\Đồ án lý thuyết\PhanQuyen\PhanQuyen\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Năm 3\Học kì 2\An toàn và bảo mật dữ liệu\Thực hành\Đồ án lý thuyết\PhanQuyen\PhanQuyen\bin\Debug\System.ValueTuple.xml
+D:\Năm 3\Học kì 2\An toàn và bảo mật dữ liệu\Thực hành\Đồ án lý thuyết\PhanQuyen\PhanQuyen\obj\Debug\PhanQuyen.csproj.AssemblyReference.cache
+D:\Năm 3\Học kì 2\An toàn và bảo mật dữ liệu\Thực hành\Đồ án lý thuyết\PhanQuyen\PhanQuyen\obj\Debug\PhanQuyen.Properties.Resources.resources
+D:\Năm 3\Học kì 2\An toàn và bảo mật dữ liệu\Thực hành\Đồ án lý thuyết\PhanQuyen\PhanQuyen\obj\Debug\PhanQuyen.Role.resources
+D:\Năm 3\Học kì 2\An toàn và bảo mật dữ liệu\Thực hành\Đồ án lý thuyết\PhanQuyen\PhanQuyen\obj\Debug\PhanQuyen.TrangChu.resources
+D:\Năm 3\Học kì 2\An toàn và bảo mật dữ liệu\Thực hành\Đồ án lý thuyết\PhanQuyen\PhanQuyen\obj\Debug\PhanQuyen.User.resources
+D:\Năm 3\Học kì 2\An toàn và bảo mật dữ liệu\Thực hành\Đồ án lý thuyết\PhanQuyen\PhanQuyen\obj\Debug\PhanQuyen.csproj.GenerateResource.cache
+D:\Năm 3\Học kì 2\An toàn và bảo mật dữ liệu\Thực hành\Đồ án lý thuyết\PhanQuyen\PhanQuyen\obj\Debug\PhanQuyen.csproj.CoreCompileInputs.cache
+D:\Năm 3\Học kì 2\An toàn và bảo mật dữ liệu\Thực hành\Đồ án lý thuyết\PhanQuyen\PhanQuyen\obj\Debug\PhanQuyen.csproj.CopyComplete
+D:\Năm 3\Học kì 2\An toàn và bảo mật dữ liệu\Thực hành\Đồ án lý thuyết\PhanQuyen\PhanQuyen\obj\Debug\PhanQuyen.exe
+D:\Năm 3\Học kì 2\An toàn và bảo mật dữ liệu\Thực hành\Đồ án lý thuyết\PhanQuyen\PhanQuyen\obj\Debug\PhanQuyen.pdb
+D:\University\Year3_Semester2\security_of_information_system\theory\Project\Phân hệ 2\PhanQuyen\PhanQuyen\PhanQuyen\bin\Debug\PhanQuyen.exe.config
+D:\University\Year3_Semester2\security_of_information_system\theory\Project\Phân hệ 2\PhanQuyen\PhanQuyen\PhanQuyen\bin\Debug\PhanQuyen.exe
+D:\University\Year3_Semester2\security_of_information_system\theory\Project\Phân hệ 2\PhanQuyen\PhanQuyen\PhanQuyen\bin\Debug\PhanQuyen.pdb
+D:\University\Year3_Semester2\security_of_information_system\theory\Project\Phân hệ 2\PhanQuyen\PhanQuyen\PhanQuyen\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\University\Year3_Semester2\security_of_information_system\theory\Project\Phân hệ 2\PhanQuyen\PhanQuyen\PhanQuyen\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\University\Year3_Semester2\security_of_information_system\theory\Project\Phân hệ 2\PhanQuyen\PhanQuyen\PhanQuyen\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\University\Year3_Semester2\security_of_information_system\theory\Project\Phân hệ 2\PhanQuyen\PhanQuyen\PhanQuyen\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\University\Year3_Semester2\security_of_information_system\theory\Project\Phân hệ 2\PhanQuyen\PhanQuyen\PhanQuyen\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\University\Year3_Semester2\security_of_information_system\theory\Project\Phân hệ 2\PhanQuyen\PhanQuyen\PhanQuyen\bin\Debug\System.Buffers.dll
+D:\University\Year3_Semester2\security_of_information_system\theory\Project\Phân hệ 2\PhanQuyen\PhanQuyen\PhanQuyen\bin\Debug\System.Memory.dll
+D:\University\Year3_Semester2\security_of_information_system\theory\Project\Phân hệ 2\PhanQuyen\PhanQuyen\PhanQuyen\bin\Debug\System.Numerics.Vectors.dll
+D:\University\Year3_Semester2\security_of_information_system\theory\Project\Phân hệ 2\PhanQuyen\PhanQuyen\PhanQuyen\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\University\Year3_Semester2\security_of_information_system\theory\Project\Phân hệ 2\PhanQuyen\PhanQuyen\PhanQuyen\bin\Debug\System.Text.Encodings.Web.dll
+D:\University\Year3_Semester2\security_of_information_system\theory\Project\Phân hệ 2\PhanQuyen\PhanQuyen\PhanQuyen\bin\Debug\System.Text.Json.dll
+D:\University\Year3_Semester2\security_of_information_system\theory\Project\Phân hệ 2\PhanQuyen\PhanQuyen\PhanQuyen\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\University\Year3_Semester2\security_of_information_system\theory\Project\Phân hệ 2\PhanQuyen\PhanQuyen\PhanQuyen\bin\Debug\System.ValueTuple.dll
+D:\University\Year3_Semester2\security_of_information_system\theory\Project\Phân hệ 2\PhanQuyen\PhanQuyen\PhanQuyen\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\University\Year3_Semester2\security_of_information_system\theory\Project\Phân hệ 2\PhanQuyen\PhanQuyen\PhanQuyen\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\University\Year3_Semester2\security_of_information_system\theory\Project\Phân hệ 2\PhanQuyen\PhanQuyen\PhanQuyen\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\University\Year3_Semester2\security_of_information_system\theory\Project\Phân hệ 2\PhanQuyen\PhanQuyen\PhanQuyen\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\University\Year3_Semester2\security_of_information_system\theory\Project\Phân hệ 2\PhanQuyen\PhanQuyen\PhanQuyen\bin\Debug\System.Buffers.xml
+D:\University\Year3_Semester2\security_of_information_system\theory\Project\Phân hệ 2\PhanQuyen\PhanQuyen\PhanQuyen\bin\Debug\System.Memory.xml
+D:\University\Year3_Semester2\security_of_information_system\theory\Project\Phân hệ 2\PhanQuyen\PhanQuyen\PhanQuyen\bin\Debug\System.Numerics.Vectors.xml
+D:\University\Year3_Semester2\security_of_information_system\theory\Project\Phân hệ 2\PhanQuyen\PhanQuyen\PhanQuyen\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\University\Year3_Semester2\security_of_information_system\theory\Project\Phân hệ 2\PhanQuyen\PhanQuyen\PhanQuyen\bin\Debug\System.Text.Encodings.Web.xml
+D:\University\Year3_Semester2\security_of_information_system\theory\Project\Phân hệ 2\PhanQuyen\PhanQuyen\PhanQuyen\bin\Debug\System.Text.Json.xml
+D:\University\Year3_Semester2\security_of_information_system\theory\Project\Phân hệ 2\PhanQuyen\PhanQuyen\PhanQuyen\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\University\Year3_Semester2\security_of_information_system\theory\Project\Phân hệ 2\PhanQuyen\PhanQuyen\PhanQuyen\bin\Debug\System.ValueTuple.xml
+D:\University\Year3_Semester2\security_of_information_system\theory\Project\Phân hệ 2\PhanQuyen\PhanQuyen\PhanQuyen\obj\Debug\PhanQuyen.csproj.AssemblyReference.cache
+D:\University\Year3_Semester2\security_of_information_system\theory\Project\Phân hệ 2\PhanQuyen\PhanQuyen\PhanQuyen\obj\Debug\PhanQuyen.Login.resources
+D:\University\Year3_Semester2\security_of_information_system\theory\Project\Phân hệ 2\PhanQuyen\PhanQuyen\PhanQuyen\obj\Debug\PhanQuyen.NVCSYT.resources
+D:\University\Year3_Semester2\security_of_information_system\theory\Project\Phân hệ 2\PhanQuyen\PhanQuyen\PhanQuyen\obj\Debug\PhanQuyen.Properties.Resources.resources
+D:\University\Year3_Semester2\security_of_information_system\theory\Project\Phân hệ 2\PhanQuyen\PhanQuyen\PhanQuyen\obj\Debug\PhanQuyen.Role.resources
+D:\University\Year3_Semester2\security_of_information_system\theory\Project\Phân hệ 2\PhanQuyen\PhanQuyen\PhanQuyen\obj\Debug\PhanQuyen.ThanhTra.resources
+D:\University\Year3_Semester2\security_of_information_system\theory\Project\Phân hệ 2\PhanQuyen\PhanQuyen\PhanQuyen\obj\Debug\PhanQuyen.TrangChu.resources
+D:\University\Year3_Semester2\security_of_information_system\theory\Project\Phân hệ 2\PhanQuyen\PhanQuyen\PhanQuyen\obj\Debug\PhanQuyen.User.resources
+D:\University\Year3_Semester2\security_of_information_system\theory\Project\Phân hệ 2\PhanQuyen\PhanQuyen\PhanQuyen\obj\Debug\PhanQuyen.csproj.GenerateResource.cache
+D:\University\Year3_Semester2\security_of_information_system\theory\Project\Phân hệ 2\PhanQuyen\PhanQuyen\PhanQuyen\obj\Debug\PhanQuyen.csproj.CoreCompileInputs.cache
+D:\University\Year3_Semester2\security_of_information_system\theory\Project\Phân hệ 2\PhanQuyen\PhanQuyen\PhanQuyen\obj\Debug\PhanQuyen.csproj.CopyComplete
+D:\University\Year3_Semester2\security_of_information_system\theory\Project\Phân hệ 2\PhanQuyen\PhanQuyen\PhanQuyen\obj\Debug\PhanQuyen.exe
+D:\University\Year3_Semester2\security_of_information_system\theory\Project\Phân hệ 2\PhanQuyen\PhanQuyen\PhanQuyen\obj\Debug\PhanQuyen.pdb
+D:\University\Year3_Semester2\security_of_information_system\theory\Project\Phân hệ 2\PhanQuyen\PhanQuyen\PhanQuyen\obj\Debug\PhanQuyen.BacSi.resources
+D:\University\Year3_Semester2\security_of_information_system\theory\Project\Phân hệ 2\PhanQuyen\PhanQuyen\PhanQuyen\obj\Debug\PhanQuyen.NghienCuu.resources
+D:\University\Year3_Semester2\security_of_information_system\theory\Project\Phân hệ 2\PhanQuyen\PhanQuyen\PhanQuyen\obj\Debug\PhanQuyen.ThongTin.resources
